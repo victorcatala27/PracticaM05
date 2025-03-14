@@ -1,4 +1,4 @@
-# PracticaM05
+# Practica UF1 M05 Grupo 5
 
 En este repositorio se puede encontrar el resultado de la práctica sobre Desarrollo de Software centrado en este caso en los entornos de desarrollo y el marco de trabajo SCRUM.
 
